@@ -40,6 +40,3 @@ else{
 
 Console.WriteLine("Tryck på valfri knappa för att avsluta.");
 Console.ReadKey();
-
-
-Console.ReadLine();
